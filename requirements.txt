@@ -1,0 +1,6 @@
+beautifulsoup4
+arabic-reshaper
+python-bidi
+wordcloud
+matplotlib
+
